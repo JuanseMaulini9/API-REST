@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Monkey D. Luffy",
+    "rol": "captain",
+    "reward": "1.500.000.000"
+  },
+  {
+    "id": 2,
+    "name": "Roronoa Zoro",
+    "rol": "vice captain",
+    "reward": "320.000.000"
+  }
+]
